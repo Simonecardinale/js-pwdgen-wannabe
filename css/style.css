@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2020/05/09/21/43/hacker-5151533_960_720.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.layover {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+
+#password {
+    color: white;
+    font-size: 52px;
+}
